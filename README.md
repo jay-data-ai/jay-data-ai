@@ -12,7 +12,7 @@ Personal GitHub
 ├── tableau-portfolio
 └── personal experiments
 
-ConceptBuilt
+ConceptBuild
 GitHub Organization
 │
 ├── salecue
@@ -40,21 +40,21 @@ GitHub Organization
 
 ---
 
-## ConceptBuilt
-GitHub Organization · currently [`jay-products`](https://github.com/jay-products)
+## ConceptBuild
+GitHub Organization · [`ConceptBuild`](https://github.com/ConceptBuild)
 
 | Product | Repository | Visibility |
 |---|---|---|
-| SaleCue | [`salecue`](https://github.com/jay-products/salecue) | private |
+| SaleCue | [`salecue`](https://github.com/ConceptBuild/salecue) | private |
 | Dinner Shield | — | planned |
 | Arrival Mode | — | planned |
-| Tesla integration | [`conceptbuilt-backend`](https://github.com/jay-products/conceptbuilt-backend) | private |
-| ConceptBuilt Web | — | planned |
-| FormatFit | [`formatfit`](https://github.com/jay-products/formatfit) | private |
+| Tesla integration | [`conceptbuilt-backend`](https://github.com/ConceptBuild/conceptbuilt-backend) | private |
+| ConceptBuild Web | — | planned |
+| FormatFit | [`formatfit`](https://github.com/ConceptBuild/formatfit) | private |
 | other internal | — | private |
 
 ---
 
 ### Connect
 - Personal: [github.com/jay-data-ai](https://github.com/jay-data-ai)
-- ConceptBuilt (org): [github.com/jay-products](https://github.com/jay-products)
+- ConceptBuild (org): [github.com/ConceptBuild](https://github.com/ConceptBuild)
