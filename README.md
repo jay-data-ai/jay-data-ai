@@ -26,7 +26,7 @@ GitHub Organization
 ---
 
 ## Personal GitHub
-[`jay-data-ai`](https://github.com/jay-data-ai)
+[`jay-powerbi`](https://github.com/jay-powerbi)
 
 | Display name | Repository |
 |---|---|
